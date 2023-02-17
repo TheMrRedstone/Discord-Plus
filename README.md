@@ -3,7 +3,7 @@ Welcome! This is Discord Plus it is currently in beta but Below you can see a li
 
 # Discord Plus
 >     Features
-> Custom Discord Profile (Want To [Learn More?](https://github.com/TheMrRedstone/Discord-Plus/edit/main/README.md#custom-discord-profiles) Click Learn More!)
+> Custom Discord Profile (Want To [Learn More?](https://github.com/TheMrRedstone/Discord-Plus#custom-discord-profiles) Click Learn More!)
 
 # Documentation
 
